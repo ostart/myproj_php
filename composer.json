@@ -1,0 +1,15 @@
+{
+    "name": "artem/example",
+    "authors": [
+        {
+            "name": "Artem Osta",
+            "email": "ostart@mail.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
